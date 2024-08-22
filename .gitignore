@@ -28,3 +28,6 @@ Temporary Items
 
 # IDE files
 .vscode
+
+# NODE
+node_modules
